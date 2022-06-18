@@ -1,0 +1,9 @@
+module.exports={
+    database:{
+        username:'rtzkobmy_Angelo',
+        password:"Soap03soap",
+        database:"rtzkobmy_praemi_portal_1",
+        host:"rtz.kob.mybluehost.me",
+        port:3306
+    }
+}
